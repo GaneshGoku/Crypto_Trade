@@ -1,0 +1,51 @@
+2025-06-23 19:14:25,207 - INFO - Initialized Binance Futures Client (Testnet Mode)
+2025-06-23 19:14:25,667 - ERROR - Market Order Error: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-06-23 19:14:25,669 - INFO - 127.0.0.1 - - [23/Jun/2025 19:14:25] "POST / HTTP/1.1" 200 -
+2025-06-23 19:18:56,902 - INFO -  * Detected change in 'C:\\Users\\Sonwa\\OneDrive\\Desktop\\Crypto_Trade\\bot.py', reloading
+2025-06-23 19:19:10,310 - ERROR - Time sync failed: 'Client' object has no attribute '_get_server_time'
+2025-06-23 19:19:10,310 - INFO - Initialized Binance Futures Client (Testnet Mode)
+2025-06-23 19:19:12,041 - ERROR - Market Order Error: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-06-23 19:19:12,050 - INFO - 127.0.0.1 - - [23/Jun/2025 19:19:12] "POST / HTTP/1.1" 200 -
+2025-06-23 19:19:33,930 - ERROR - Market Order Error: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-06-23 19:19:33,932 - INFO - 127.0.0.1 - - [23/Jun/2025 19:19:33] "POST / HTTP/1.1" 200 -
+2025-06-23 19:20:22,341 - ERROR - Market Order Error: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-06-23 19:20:22,341 - INFO - 127.0.0.1 - - [23/Jun/2025 19:20:22] "POST / HTTP/1.1" 200 -
+2025-06-23 19:24:28,158 - INFO - Timestamp offset set to -7952 ms
+2025-06-23 19:24:28,160 - INFO - Initialized Binance Futures Client (Testnet Mode)
+2025-06-23 19:24:28,351 - ERROR - Market Order Error: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-06-23 19:24:28,357 - INFO - 127.0.0.1 - - [23/Jun/2025 19:24:28] "POST / HTTP/1.1" 200 -
+2025-06-23 19:26:07,657 - ERROR - Market Order Error: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-06-23 19:26:07,659 - INFO - 127.0.0.1 - - [23/Jun/2025 19:26:07] "POST / HTTP/1.1" 200 -
+2025-06-23 19:27:54,369 - ERROR - Limit Order Error: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-06-23 19:27:54,369 - INFO - 127.0.0.1 - - [23/Jun/2025 19:27:54] "POST / HTTP/1.1" 200 -
+2025-06-23 19:28:01,407 - ERROR - Limit Order Error: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-06-23 19:28:01,407 - INFO - 127.0.0.1 - - [23/Jun/2025 19:28:01] "POST / HTTP/1.1" 200 -
+2025-06-23 19:28:26,431 - ERROR - Limit Order Error: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-06-23 19:28:26,434 - INFO - 127.0.0.1 - - [23/Jun/2025 19:28:26] "POST / HTTP/1.1" 200 -
+2025-06-23 19:29:58,591 - INFO -  * Detected change in 'C:\\Users\\Sonwa\\OneDrive\\Desktop\\Crypto_Trade\\bot.py', reloading
+2025-06-23 19:30:21,841 - INFO - Initialized Binance Futures Client (Testnet Mode)
+2025-06-23 19:30:25,129 - ERROR - Limit Order Error: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-06-23 19:30:25,135 - INFO - 127.0.0.1 - - [23/Jun/2025 19:30:25] "POST / HTTP/1.1" 200 -
+2025-06-23 19:30:47,858 - ERROR - Market Order Error: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-06-23 19:30:47,862 - INFO - 127.0.0.1 - - [23/Jun/2025 19:30:47] "POST / HTTP/1.1" 200 -
+2025-06-23 19:39:35,906 - INFO -  * Detected change in 'C:\\Users\\Sonwa\\OneDrive\\Desktop\\Crypto_Trade\\bot.py', reloading
+2025-06-23 19:44:08,064 - INFO - Initialized Binance Futures Client (Testnet Mode)
+2025-06-23 19:44:37,512 - ERROR - Market Order Error: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-06-23 21:12:13,831 - INFO - Initialized Binance Futures Client (Testnet Mode)
+2025-06-23 21:12:14,431 - ERROR - Market Order Error: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-06-23 21:12:14,431 - INFO - 127.0.0.1 - - [23/Jun/2025 21:12:14] "POST / HTTP/1.1" 200 -
+2025-06-23 21:22:23,228 - INFO - Initialized Binance Futures Client (Testnet Mode)
+2025-06-23 21:22:23,813 - ERROR - Market Order Error: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-06-23 21:22:23,813 - INFO - 127.0.0.1 - - [23/Jun/2025 21:22:23] "POST / HTTP/1.1" 200 -
+2025-06-23 21:23:38,453 - INFO - 127.0.0.1 - - [23/Jun/2025 21:23:38] "POST / HTTP/1.1" 200 -
+2025-06-23 21:24:15,196 - ERROR - Limit Order Error: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-06-23 21:24:15,197 - INFO - 127.0.0.1 - - [23/Jun/2025 21:24:15] "POST / HTTP/1.1" 200 -
+2025-06-23 21:26:32,634 - INFO -  * Detected change in 'C:\\Users\\Sonwa\\OneDrive\\Desktop\\Crypto_Trade\\bot.py', reloading
+2025-06-23 21:26:40,087 - INFO - Initialized Binance Futures Client (Testnet Mode)
+2025-06-23 21:26:42,120 - ERROR - Limit Order Error: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-06-23 21:26:42,136 - INFO - 127.0.0.1 - - [23/Jun/2025 21:26:42] "POST / HTTP/1.1" 200 -
+2025-06-23 21:26:55,276 - ERROR - Market Order Error: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-06-23 21:26:55,278 - INFO - 127.0.0.1 - - [23/Jun/2025 21:26:55] "POST / HTTP/1.1" 200 -
+2025-06-23 21:35:22,305 - INFO - Initialized Binance Futures Client (Testnet Mode)
+2025-06-23 21:35:22,887 - INFO - Market Order: {'orderId': 4635101153, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ572d50bde5605a39273e8e', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '1.000', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1750694722813}
+2025-06-23 21:35:22,887 - INFO - 127.0.0.1 - - [23/Jun/2025 21:35:22] "POST / HTTP/1.1" 200 -

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Crypto Trading Bot</title>
+    <style>
+        body {
+            background-color: #121212;
+            color: #f1f1f1;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 40px;
+        }
+        h1 {
+            color: #00ff99;
+            text-align: center;
+        }
+        form {
+            max-width: 500px;
+            margin: 0 auto;
+            background: #1e1e1e;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px #00ff99;
+        }
+        label {
+            display: block;
+            margin-top: 15px;
+            color: #bbb;
+        }
+        input, select {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            background: #2e2e2e;
+            color: white;
+            border: 1px solid #555;
+            border-radius: 4px;
+        }
+        input[type="submit"] {
+            background: #00ff99;
+            color: #000;
+            font-weight: bold;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+        .result {
+            max-width: 500px;
+            margin: 30px auto;
+            background: #1e1e1e;
+            padding: 20px;
+            border-left: 5px solid #00ff99;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Crypto Futures Trading Bot</h1>
+    <form method="POST">
+        <label>API Key:</label>
+        <input type="text" name="api_key" required>
+
+        <label>API Secret:</label>
+        <input type="password" name="api_secret" required>
+
+        <label>Symbol (e.g., BTCUSDT):</label>
+        <input type="text" name="symbol" required>
+
+        <label>Side:</label>
+        <select name="side" required>
+            <option value="buy">Buy</option>
+            <option value="sell">Sell</option>
+        </select>
+
+        <label>Quantity:</label>
+        <input type="number" name="quantity" step="0.01" required>
+
+        <label>Order Type:</label>
+        <select name="order_type" required>
+            <option value="market">Market</option>
+            <option value="limit">Limit</option>
+            <option value="stop_limit">Stop-Limit</option>
+        </select>
+
+        <label>Price (for limit or stop-limit):</label>
+        <input type="number" name="price" step="0.01">
+
+        <label>Stop Price (only for stop-limit):</label>
+        <input type="number" name="stop_price" step="0.01">
+
+        <input type="submit" value="Place Order">
+    </form>
+
+    {% if result %}
+    <div class="result">
+        <h3>Order Response:</h3>
+        <pre>{{ result }}</pre>
+    </div>
+    {% endif %}
+</body>
+</html>
